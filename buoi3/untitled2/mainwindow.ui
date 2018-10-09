@@ -23,6 +23,17 @@
         <verstretch>0</verstretch>
        </sizepolicy>
       </property>
+      <widget class="QWidget" name="gridLayoutWidget">
+       <property name="geometry">
+        <rect>
+         <x>50</x>
+         <y>110</y>
+         <width>160</width>
+         <height>80</height>
+        </rect>
+       </property>
+       <layout class="QGridLayout" name="gridLayout"/>
+      </widget>
      </widget>
     </item>
     <item>
@@ -34,35 +45,42 @@
        <item>
         <widget class="QPushButton" name="thutucmau">
          <property name="text">
-          <string>thu tuc mau</string>
+          <string>Bai 1a</string>
          </property>
         </widget>
        </item>
        <item>
-        <widget class="QPushButton" name="pushButton_2">
+        <widget class="QPushButton" name="luoicau">
          <property name="text">
-          <string>PushButton</string>
+          <string>Bai 1b</string>
          </property>
         </widget>
        </item>
        <item>
-        <widget class="QPushButton" name="pushButton_4">
+        <widget class="QPushButton" name="hn">
          <property name="text">
-          <string>PushButton</string>
+          <string>Bai 1c</string>
          </property>
         </widget>
        </item>
        <item>
-        <widget class="QPushButton" name="pushButton_3">
+        <widget class="QPushButton" name="bai1">
          <property name="text">
-          <string>PushButton</string>
+          <string>Bai 1d</string>
+         </property>
+        </widget>
+       </item>
+       <item>
+        <widget class="QPushButton" name="bai1e">
+         <property name="text">
+          <string>Bai 1e</string>
          </property>
         </widget>
        </item>
        <item>
         <widget class="QPushButton" name="pushButton">
          <property name="text">
-          <string>PushButton</string>
+          <string>Bai 2a</string>
          </property>
         </widget>
        </item>
